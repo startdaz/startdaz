@@ -1,11 +1,3 @@
-<div align="right">
-  <div style="display: inline-block; border: 1px solid yellow; padding: 10px;">
-    <img src="https://graph.org/file/b3d03a1d92524342cde8c.jpg" width="250" height="230"/>
-  </div>
-</div>
-
-
-
 # Hi there, I'm Stardaz! 👋
 
 I'm a passionate developer with a love for coding and creating awesome things. Here you'll find some of my projects, contributions, and more!
